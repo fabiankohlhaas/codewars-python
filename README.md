@@ -1,8 +1,8 @@
 <!-- <a name="readme-top"></a> -->
 
-<!-- [![Forks][forks-shield]][forks-url]
+[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 
@@ -59,14 +59,13 @@ Project Link: [https://github.com/fabiankohlhaas/codewars-python](https://github
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- [forks-shield]: https://img.shields.io/github/forks/fabiankohlhaas/fullstackopen.svg?style=for-the-badge
-[forks-url]: https://github.com/fabiankohlhaas/fullstackopen/network/members
-[stars-shield]: https://img.shields.io/github/stars/fabiankohlhaas/fullstackopen.svg?style=for-the-badge
-[stars-url]: https://github.com/fabiankohlhaas/fullstackopen/stargazers
+[forks-shield]: https://img.shields.io/github/forks/fabiankohlhaas/codewars-python.svg?style=for-the-badge
+[forks-url]: https://github.com/fabiankohlhaas/codewars-python/network/members
+[stars-shield]: https://img.shields.io/github/stars/fabiankohlhaas/codewars-python.svg?style=for-the-badge
+[stars-url]: https://github.com/fabiankohlhaas/codewars-python/stargazers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/fako/ -->
+[linkedin-url]: https://linkedin.com/in/fako/
 
 <!-- [product-screenshot]: images/screenshot.png -->
